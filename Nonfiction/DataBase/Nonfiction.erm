@@ -11,7 +11,7 @@
 	</page_setting>
 	<category_index>0</category_index>
 	<zoom>1.0</zoom>
-	<x>10</x>
+	<x>7</x>
 	<y>0</y>
 	<default_color>
 		<r>128</r>
@@ -135,7 +135,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2023-11-17 17:12:19</creation_date>
-			<updated_date>2023-12-29 11:10:57</updated_date>
+			<updated_date>2023-12-29 11:13:28</updated_date>
 			<model_property>
 				<name>프로젝트명</name>
 				<value></value>
@@ -410,7 +410,7 @@
 		</word>
 		<word>
 			<id>15</id>
-			<length>null</length>
+			<length>10</length>
 			<decimal>null</decimal>
 			<array>false</array>
 			<array_dimension>null</array_dimension>
@@ -422,7 +422,7 @@
 			<description></description>
 			<logical_name>hi</logical_name>
 			<physical_name>hi</physical_name>
-			<type>binary_float</type>
+			<type>varchar(n)</type>
 		</word>
 		<word>
 			<id>16</id>
@@ -3160,7 +3160,7 @@
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
-					<type>binary_float</type>
+					<type>varchar(n)</type>
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
